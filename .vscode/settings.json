@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": false,
+    "python.linting.pycodestyleEnabled": true,
+    "python.pythonPath": "/home/edwin/Desktop/School-projects/Python projects/Watchlist/flask/bin/python2.7"
+}
